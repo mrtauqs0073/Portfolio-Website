@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #ffffff;
+  color: #333333;
+}
+
+header {
+  background-color: #004aad;
+  color: white;
+  padding: 16px;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+footer {
+  background-color: #222222;
+  color: white;
+  padding: 12px;
+  text-align: center;
+}
